@@ -1,2 +1,0 @@
-Prueba en git commit
-Cambio posterior al primer commit
